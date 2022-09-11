@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="play-oops" />
+        <module name="play-datetime" />
+        <module name="play-thread-asynchronous" />
+        <module name="play-module" />
+        <module name="play-jasper" />
+        <module name="play-collections" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
